@@ -25,9 +25,9 @@ TPLINK_HWID := 0x08500001  for 850V1     or   TPLINK_HWID := 0x08540001    for 8
 and build as it would be an 850V1, even if it is an 854V1.
 
 be care that the maximum filesize (sysupgrade) shoud not bigger than about 3,5 MB. but flash the factory-image.
-https://openwrt.org/docs/guide-user/additional-software/saving_space    and use strip options.
+https://openwrt.org/docs/guide-user/additional-software/saving_space    and use default strip options.
 
 
-use precompiled images, such as mine only for testing, build always your own.
+# use precompiled images, such as mine only for testing, build always your own.
 
 
