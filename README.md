@@ -28,6 +28,6 @@ be care that the maximum filesize (sysupgrade) shoud not bigger than about 3,5 M
 https://openwrt.org/docs/guide-user/additional-software/saving_space    and use default strip options.
 
 
-# use precompiled images, such as mine only for testing, build always your own.
+use precompiled images, such as mine only for testing, build always your own.
 
 
