@@ -1,7 +1,7 @@
 # openwrt_d-link-TL-WA850RE_V1 21.02.0 RC4
 # openwrt_d-link-TL-WA854RE_V1 21.02.0 RC4
 
-for build remove in:
+for build remove line in:
 openwrt/package/kernel/mac80211/files/lib/wifi/mac80211.sh
 
     set wireless.radio${devidx}.disabled=1
