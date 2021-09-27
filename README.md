@@ -35,7 +35,7 @@ example 854V1:
 and build as it would be an 850V1, even if it is an 854V1.
 
 be care that the maximum filesize (sysupgrade) shoud not bigger than about 3,5 MB. but flash the factory-image.
-save space https://openwrt.org/docs/guide-user/additional-software/saving_space and use default kernel strip options.
+save space https://openwrt.org/docs/guide-user/additional-software/saving_space and use default kernel strip options to save more space.
 
 
 # Note
